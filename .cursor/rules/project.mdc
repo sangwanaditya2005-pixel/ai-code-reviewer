@@ -1,0 +1,29 @@
+
+---
+description: Project coding conventions and technology stack
+alwaysApply: true
+---
+
+# Project Guidelines
+
+## Technology Stack
+- Frontend: React with Vite
+- Backend: Node.js and Express
+- Database: MongoDB with Mongoose
+- AI: Google Gemini API
+- Authentication: JWT
+
+## Coding Conventions
+- Write clean and readable code.
+- Use meaningful variable and function names.
+- Keep frontend and backend code separate.
+- Use reusable React components.
+- Follow REST API conventions.
+- Store API keys and secrets in environment variables.
+- Never expose API keys in frontend code.
+- Handle errors properly.
+- Avoid unnecessary dependencies and complexity.
+
+## Project Scope
+This application provides AI-powered code reviews,
+function explanations, and unit test generation.
